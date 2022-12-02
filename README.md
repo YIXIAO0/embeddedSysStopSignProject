@@ -1,1 +1,1 @@
-# embeddedSysStopSignProject
+# Stop Sign Detection
